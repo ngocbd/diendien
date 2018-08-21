@@ -4,10 +4,10 @@
 #Bài ca của những Thằng Điên
 
 
-  Chúng ta là những Thằng Điên
-  Những Thằng Điên làm thay đổi Thế giới
-  Thế giới này được thay đổi bởi những Thằng Điên
-  Bởi vì chỉ có những Thằng Điên mới làm thay đổi được Thế giới
+ - Chúng ta là những Thằng Điên
+ - Những Thằng Điên làm thay đổi Thế giới
+ - Thế giới này được thay đổi bởi những Thằng Điên
+ - Bởi vì chỉ có những Thằng Điên mới làm thay đổi được Thế giới
 
   Chúng ta là những Thằng Điên
   Những Thằng Điên làm thay đổi Thế giới
